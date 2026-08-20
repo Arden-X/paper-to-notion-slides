@@ -1,0 +1,8 @@
+interface:
+  display_name: "Paper to Notion & Slides"
+  short_description: "Turn papers into Notion notes and editable slide decks"
+  default_prompt: "Use $paper-to-notion-slides to analyze this paper, create the five-section Notion note, and build editable slides with complete original figures."
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
